@@ -1,2 +1,4 @@
 # house-price-prediction-
-this is model training and practice project.
+This repo training and practice perpose.
+Practice model training.
+
